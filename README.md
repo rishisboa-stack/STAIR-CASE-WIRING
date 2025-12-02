@@ -45,4 +45,6 @@ Tabulation 2
 
 Result: 
 
+<img width="1232" height="711" alt="Screenshot 2025-12-02 105341" src="https://github.com/user-attachments/assets/ce635ebc-dd93-4c0d-8717-86b3b4d8f95c" />
+
 
